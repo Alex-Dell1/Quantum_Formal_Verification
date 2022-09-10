@@ -1,4 +1,4 @@
-# Formal Verification of Quantum Systems
+# Quantum Formal Verification
 Here you can find a report I made for a university course on Formal Verification. The topic I chose is Formal Verification of Quantum Systems, based on [[1]](#1).
 
 The paper is a survey that introduces the reader to a large variety of different solutions adopted in the field. Thus, (not in a light-hearted way) I had to make a selection of the topics I wanted to present. These ended up being Quantum CTL, Quantum Floyd-Hoare Logic and Quantum Weakest Precondition.
