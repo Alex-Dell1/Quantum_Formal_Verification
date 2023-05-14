@@ -3,7 +3,7 @@ Here you can find a report I made for a university course on Formal Verification
 
 The paper is a survey that introduces the reader to a large variety of different solutions adopted in the field. Thus, (not in a light-hearted way) I had to make a selection of the topics I wanted to present. These ended up being Quantum CTL, Quantum Floyd-Hoare Logic and Quantum Weakest Precondition.
 
-Here you can find the report I produced as a result of my studies, as well as the slides for the seminar I held about them. Following, a list of the most referred papers.
+Here you can find the report I produced as a result of my studies, as well as the slides for the seminar I held. Following, a list of the main references.
 
 ## References
 
